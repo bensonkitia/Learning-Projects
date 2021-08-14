@@ -5,7 +5,7 @@ function computerPlay() {
   var randomNumber = Math.floor(Math.random() * possiblePlays.length);
   var play = possiblePlays[randomNumber];
   // Returns selection
-  return "rock";
+  return play;
 }
 
 function playRound(computerSelection, roundNumber, previousOutcome) {
