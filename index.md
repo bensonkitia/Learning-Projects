@@ -1,4 +1,4 @@
-# Learning Projects
+# Project List
 
 * [Rock, Paper, Scissors](/rock-paper-scissors/index.html)
 
